@@ -36,12 +36,16 @@ Here we have a small article that provides introductory information to the webpa
 ### Exploring the Data   
 ![ExploreData](https://github.com/ajsadowy/UFOs/blob/main/static/images/Table_Layout.png)   
 
-### Using the Table   
+### Using the Table Filters   
 ![UsingTable](https://github.com/ajsadowy/UFOs/blob/main/static/images/Table_In_Use.png)   
 When shifting through the data, the user will be able to input specific information to be returned with data relavent to their inquires. The users may use one filter, all filters, or a select few filters, the table will be updated dynamically as inputs are recieved.
 
 ## Summary   
-
+A major drawback of this webpage is the formating of data.js. With location names being lower case the user may find the webpage to be broken by typing "Sacramento" instead of "sacramento". This may be resolved by cleaning the dataset; however, I put examples with the best syntax to use when entering information in the filters.   
+   
+Two suggestions for furthering developing the webpage:   
+* Build a page that can collect additional information from other UFO observers, this can help expand the current dataset.   
+* Build an interactive map that can display locations of similar UFO shapes, with the current set up the user would have to do this manually.
 
 ## Credits/Thanks   
 ![FUTON DREAM](https://github.com/ajsadowy/UFOs/blob/main/static/images/Futon_Dream.jpg)   
