@@ -38,7 +38,7 @@ Here we have a small article that provides introductory information to the webpa
 
 ### Using the Table   
 ![UsingTable](https://github.com/ajsadowy/UFOs/blob/main/static/images/Table_In_Use.png)   
-
+When shifting through the data, the user will be able to input specific information to be returned with data relavent to their inquires. The users may use one filter, all filters, or a select few filters, the table will be updated dynamically as inputs are recieved.
 
 ## Summary   
 
